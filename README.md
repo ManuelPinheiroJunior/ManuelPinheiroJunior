@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @ManuelPinheiroJunior
 - 👀 I’m interested in to develop 
-- 🌱 I’m currently learning HTML/CSS,Javascript,PHP,C#,MYSQL
+- 🌱 I’m currently learning HTML/CSS,Javascript,C#,PostgresSQL
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me manuel.jr@outlook.com
 
