@@ -2,7 +2,7 @@
 
 
 
-## About me :
+## About me 
 
  - *I'm Manuel da Costa Pinheiro Junior* 
 
