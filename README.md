@@ -4,12 +4,12 @@
 
 ## About me 
 
- - *I'm Manuel da Costa Pinheiro Junior* 
+ - *Manuel da Costa Pinheiro Junior* 
 
- - *I have a degree in Analysis and System Development*
+ - *Degree in Analysis and System Development*
   
- - *I'm always looking for new challenges in my career as a developer.*
+ - *Constantly seeking new challenges in my career as a developer*
    
- -  *Always looking to evolve in software development* 
+ -  *To continually evolve in the field of software development* 
  
 #
